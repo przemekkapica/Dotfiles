@@ -99,6 +99,9 @@ EOF"<br>
 - Install lxappearance<br>
 ```sudo dnf install lxappearance```
 
+- Install fail2ban<br>
+```sudo dnf install fail2ban```
+
 ### Set up other configs & themes
 - Clone my github repository<br>
 ```git clone https://github.com/przemekkapica/Dotfiles-and-Configs.git```
